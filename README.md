@@ -1,3 +1,5 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 # IG-AVProcessing
 This repository is intended to organize the work, output and documentation of the CLARIAH Interest Group (IG) on Audiovisual Processing infrastructure
 
@@ -43,7 +45,7 @@ AV processing infrastructure problems that we try to tackle are:
 - Nanne van Noord (University of Amsterdam)
 - Henk van den Heuvel (Radboud University)
 - Maarten van Gompel (KNAW Humanities Cluster)
-- Arjan van Hessen (University of Twente) 
+- Arjan van Hessen (University of Twente)
 
 
 The group is open to new members. Contact Roeland Ordelman.
